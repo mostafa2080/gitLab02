@@ -17,5 +17,4 @@
 # Delete the tag from the remote repository
 `git push --delete origin v1.0`
 
-
-                                                    ![GitHub Logo](https://github.com/github.png)
+ ![GitHub Logo](https://github.com/github.png)
