@@ -6,3 +6,7 @@
 
 # Remove remote branch
 `git push origin --delete dev`
+
+
+# List all the tags in the repository
+`git tag`
